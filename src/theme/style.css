@@ -1,23 +1,24 @@
 @font-face {
-  src: url('/fonts/please-dont-download-these-fonts-buy-a-license-instead-Regular.woff2')
-    format('woff2');
-  font-family: 'please-dont-download-these-fonts-buy-a-license-instead';
+  src: url('/fonts/Urbanist-Regular.ttf')
+    format('ttf');
+  font-family: 'Urbanist';
   font-display: optional;
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  src: url('/fonts/please-dont-download-these-fonts-buy-a-license-instead-Regular-Italic.woff2')
-    format('woff2');
-  font-family: 'please-dont-download-these-fonts-buy-a-license-instead';
+  src: url('/fonts/Urbanist-MediumItalic.ttf')
+    format('ttf');
+  font-family: 'Urbanist';
   font-display: optional;
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
-  src: url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+  src: url('/fonts/Urbanist-Bold.ttf')
+    format('ttf');
   font-family: 'Urbanist';
   font-display: optional;
   font-weight: 600;
@@ -25,9 +26,9 @@
 }
 
 @font-face {
-  src: url('/fonts/please-dont-download-these-fonts-buy-a-license-instead-Bold-Italic.woff2')
-    format('woff2');
-  font-family: 'please-dont-download-these-fonts-buy-a-license-instead';
+  src: url('/fonts/Urbanist-BoldItalic.ttf')
+    format('ttf');
+  font-family: 'Urbanist';
   font-display: optional;
   font-weight: 600;
   font-style: italic;
