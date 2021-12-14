@@ -17,9 +17,8 @@
 }
 
 @font-face {
-  src: url('/fonts/please-dont-download-these-fonts-buy-a-license-instead-Bold.woff2')
-    format('woff2');
-  font-family: 'please-dont-download-these-fonts-buy-a-license-instead';
+  src: url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+  font-family: 'Urbanist';
   font-display: optional;
   font-weight: 600;
   font-style: normal;
