@@ -1,5 +1,5 @@
 export const homeCopy = {
-  title: "Hi, I'm Altay",
+  title: "Hi, I'm Kumar",
   description: '',
 } as const
 
