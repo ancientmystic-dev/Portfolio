@@ -7,8 +7,8 @@ export const HEADER = [
     label: 'Writing',
     href: '/posts',
   },
-  {
-    label: 'Projects',
-    href: '/projects',
-  },
+  //{
+   // label: 'Projects',
+    //href: '/projects',
+  //},
 ] as const

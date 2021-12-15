@@ -7,9 +7,9 @@ import { getOpenGraphImage } from 'utils/openGraph'
 import { sanitizeHtml } from 'utils/sanitize'
 
 const author: Author = {
-  name: 'Altay',
-  email: 'altay@aydemir.io',
-  link: 'https://twitter.com/altaywtf',
+  name: 'Kumar',
+  email: 'kumarrgowda18@gmail.com',
+  link: 'https://twitter.com/kumarrgowdaa',
 }
 
 export const mapPostToRssFeedItem = (post: Post, markdown: string): Item => ({
