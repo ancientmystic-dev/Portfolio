@@ -1,6 +1,6 @@
 ---
-title: A private email setup with noise reduction
-oneliner: My justification for paying 3.29 EUR per month for something free.
+title: Name of the Case study
+oneliner: An outliner text goes here
 date: '2020-12-05T20:24:38Z'
 ---
 
