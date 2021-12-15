@@ -6,7 +6,7 @@ featured: true
 ---
 
 In his latest book [_The New Corporation_](../books/the-new-corporation), Joel Balkan mentions a concept called _economization_ (of individuals). Today's capital driven system is leaving its' footprint on our personal lives. We're turning into living creatures operating as mini-corporations. Many of our actions carry a purpose to invest in ourselves and attract investors.
-This is edited.
+
 It's undeniable that the road to mastery is appealing in human's search for meaning. Yet, most of the fields we choose to pursue are serving economic imperatives. Even worse, our hobbies are transitioning into side hustles. We feel miserably trapped in the 9/6; every effort that produces a tangible outcome resembles an easy way out. As Austin Kleon also points out, our best compliment is telling somebody they're so good at what they love to do, they could make money at it. "Wow, you could open a bakery!"
 
 As a person in-between Generation Y and Z, I can observe the impacts of economization on many people I know, including myself. Around the age of 12, we found ourselves in a race with our acquittances to get into a good high-school. Up next, there was another race for the university, which was beyond intense. In turn, we faced _real world_, where _studying_ wasn't enough by itself; we also had to behave accordingly and look out for someone else's interest—either a human being or an institution.

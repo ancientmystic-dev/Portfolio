@@ -25,7 +25,7 @@ export const nowCopy = {
   icon: '⏱',
   title: "What I'm doing now",
   description:
-    "This is a [now page](https://nownownow.com/about) inspired by [Derek Sivers.](https://sivers.org).",
+    "This is a [now page](https://nownownow.com/about) inspired by [Derek Sivers.](https://sivers.org) It's auto-generated via APIs and [the source code is here.](https://github.com/altaywtf/altay-dot-wtf/blob/main/src/scripts/now/create.ts)",
 }
 
 export const projectsCopy = {
