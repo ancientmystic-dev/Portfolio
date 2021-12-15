@@ -1,10 +1,10 @@
 ---
-title: Dear state, please stop lying
-oneliner: A brief revisit of how we represent states while building user-interfaces.
+title: Title of the casestudy
+oneliner: A sample section header
 date: '2020-02-22'
 featured: true
 ---
-
+Checking if i can update text here
 Is managing the UI state is hard, or we make it hard for ourselves by not paying attention?
 
 How do we do that? 🤔
