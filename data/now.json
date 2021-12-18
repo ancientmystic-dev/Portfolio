@@ -14,6 +14,13 @@
           "subtitle": "Why It Can Matter More Than IQ",
           "title": "Emotional Intelligence",
           "url": "https://www.goodreads.com/book/show/26329.Emotional_Intelligence"
+        },
+        {
+          "author": "Peter Thiel",
+          "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71m-MxdJ2WL.jpg",
+          "subtitle": "Notes on Startups, or How to Build the Future",
+          "title": "Zero to One",
+          "url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630663027l/18050143.jpg"
         }
       ],
       "title": "📖 Reading"
@@ -32,6 +39,11 @@
           "url": "https://www.tvmaze.com/shows/45563/dave"
         },
         {
+          "imageURL": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+          "title": "Breaking Bad",
+          "url": "https://www.netflix.com/in/title/70143836"
+        },
+        {
           "imageURL": "https://static.tvmaze.com/uploads/images/original_untouched/332/830232.jpg",
           "title": "Ted Lasso",
           "url": "https://www.tvmaze.com/shows/44458/ted-lasso"
@@ -40,5 +52,5 @@
       "title": "📺 Watching"
     }
   ],
-  "updatedAt": "2021-08-29T13:41:00.101Z"
+  "updatedAt": "2021-12-18T13:41:00.101Z"
 }
