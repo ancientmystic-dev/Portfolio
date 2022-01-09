@@ -4,7 +4,7 @@ export const HEADER = [
     href: '/now',
   },
   {
-    label: 'Work',
+    label: 'Writings',
     href: '/posts',
   },
   //{
