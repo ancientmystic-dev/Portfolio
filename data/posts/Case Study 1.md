@@ -4,6 +4,9 @@ oneliner: A sample section header
 date: '2020-02-22'
 featured: true
 ---
+![](/images/posts/react-native-imessage/cover1.png)
+
+---
 > 🔮 Disclaimer: The true identity of the client and the sensitive data in this case study has been revised due to the NDA I've signed for this project.
 
 _Text in italics_,
