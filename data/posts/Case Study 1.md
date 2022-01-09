@@ -8,7 +8,7 @@ featured: true
 
 _Text in italics_,
 ### What is a Case journey?
-    Whenever a person requires a transplant or an oncology treatment he submits his case for review. Any case submitted on the platform starts from the initial evaluation and ends at the post-transplant phase. Each phase consists of multiple sub-phases and each sub-phase has forms/checklists that need to be filled before moving to the next phase.
+Whenever a person requires a transplant or an oncology treatment he submits his case for review. Any case submitted on the platform starts from the initial evaluation and ends at the post-transplant phase. Each phase consists of multiple sub-phases and each sub-phase has forms/checklists that need to be filled before moving to the next phase.
 
 
 ### Goals
@@ -19,6 +19,6 @@ _Text in italics_,
 
 
 ### View of the Cases Dashboard
-![](/images/posts/react-native-imessage/Slide 16_9 - 1.png)
+![](/images/posts/react-native-imessage/test.png)
  
- Whenever a person requires a transplant or an oncology treatment he submits his case for review. Any case submitted on the platform starts from the initial evaluation and ends at the post-transplant phase. Each phase consists of multiple sub-phases and each sub-phase has forms/checklists that need to be filled before moving to the next phase.
+Whenever a person requires a transplant or an oncology treatment he submits his case for review. Any case submitted on the platform starts from the initial evaluation and ends at the post-transplant phase. Each phase consists of multiple sub-phases and each sub-phase has forms/checklists that need to be filled before moving to the next phase.
