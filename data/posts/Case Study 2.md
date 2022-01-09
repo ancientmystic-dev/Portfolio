@@ -1,5 +1,5 @@
 ---
-title: NAme of the Case study 2
+title: Name of the Case study 2
 oneliner: A sub heading for the case study.
 date: '2019-12-15'
 ---
