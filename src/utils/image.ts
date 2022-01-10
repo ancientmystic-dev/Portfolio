@@ -20,7 +20,7 @@ export const getImageData = async (buffer: Buffer): Promise<ImageData> => {
 
   return {
     buffer,
-    ratio: width / height,
+    ratio: (2*width) / height,
     width,
     height,
     blurhash: base64,
