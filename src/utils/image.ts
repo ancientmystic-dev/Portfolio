@@ -4,7 +4,7 @@ import { getPlaiceholder } from 'plaiceholder'
 type ImageData = {
   buffer: Buffer
   ratio: number
-  width: number
+  width: number * 2
   height: number
   blurhash: string
 }
@@ -20,7 +20,7 @@ export const getImageData = async (buffer: Buffer): Promise<ImageData> => {
 
   return {
     buffer,
-    ratio: (2*width) / height,
+    ratio: width / height,
     width,
     height,
     blurhash: base64,
