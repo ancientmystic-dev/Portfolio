@@ -1,7 +1,7 @@
 import { Theme } from 'theme-ui'
 import { COLORS_DARK, COLORS_LIGHT } from './colors'
 
-export const LAYOUT_WIDTH = 640
+export const LAYOUT_WIDTH = 1000
 const fontFamily = `'Josefin Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'`
 const makeTheme = <T extends Theme>(t: T) => t
 
