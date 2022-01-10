@@ -1,7 +1,7 @@
 import { lighten, darken } from 'polished'
 
 const BRAND_COLORS = {
-  Procedure: '#4c6ef5',
+  Procedure: '#228be6',
   klarna: 'rgb(255, 179, 199)',
   lisk: '#4070F4',
 }
