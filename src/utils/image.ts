@@ -4,7 +4,7 @@ import { getPlaiceholder } from 'plaiceholder'
 type ImageData = {
   buffer: Buffer
   ratio: number
-  width: number * 2
+  width: number
   height: number
   blurhash: string
 }
