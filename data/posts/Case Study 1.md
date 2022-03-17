@@ -27,6 +27,7 @@ Whenever a person requires a transplant or an oncology treatment he submits his 
 Whenever a person requires a transplant or an oncology treatment he submits his case for review. Any case submitted on the platform starts from the initial evaluation and ends at the post-transplant phase. Each phase consists of multiple sub-phases and each sub-phase has forms/checklists that need to be filled before moving to the next phase.
 
 
+
 **Key Takeaways**
 - Easy access to all the checklists and forms that need to be filled.
 - Easy to navigate within sections of a form.
