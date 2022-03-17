@@ -2,7 +2,7 @@ import { Theme } from 'theme-ui'
 import { COLORS_DARK, COLORS_LIGHT } from './colors'
 
 export const LAYOUT_WIDTH = 800
-const fontFamily = `'Noto Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'`
+const fontFamily = `'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'`
 const makeTheme = <T extends Theme>(t: T) => t
 
 export const theme = makeTheme({
@@ -12,8 +12,8 @@ export const theme = makeTheme({
   },
   fontWeights: {
     body: 400,
-    heading: 700,
-    bold: 700,
+    heading: 600,
+    bold: 600,
   },
   lineHeights: {
     body: 1.6,
