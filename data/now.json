@@ -14,6 +14,13 @@
           "subtitle": "Why It Can Matter More Than IQ",
           "title": "Emotional Intelligence",
           "url": "https://www.goodreads.com/book/show/26329.Emotional_Intelligence"
+        },
+        {
+          "author": "David A. Vise",
+          "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320394284l/164323.jpg",
+          "subtitle": "Inside the Hottest Business, Media and Technology Success of Our Time",
+          "title": "The Google Story",
+          "url": "https://www.goodreads.com/book/show/164323.The_Google_Story"
         }
       ],
       "title": "📖 Reading"
@@ -29,7 +36,12 @@
         {
           "imageURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF5EkMHfccQQRhYdFYCl46YLvcsVHhZHqk5hNip_8cqXEx-cWh",
           "title": "Modern Family",
-          "url": "https://www.tvmaze.com/shows/45563/dave"
+          "url": "https://abc.com/shows/modern-family"
+        },
+        {
+          "imageURL": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+          "title": "Breaking Bad",
+          "url": "https://www.netflix.com/in/title/70143836"
         },
         {
           "imageURL": "https://static.tvmaze.com/uploads/images/original_untouched/332/830232.jpg",
@@ -40,5 +52,5 @@
       "title": "📺 Watching"
     }
   ],
-  "updatedAt": "2021-08-29T13:41:00.101Z"
+  "updatedAt": "2022-01-09T13:41:00.101Z"
 }

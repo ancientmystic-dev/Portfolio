@@ -4,11 +4,11 @@ export const HEADER = [
     href: '/now',
   },
   {
-    label: 'Writing',
+    label: 'Writings',
     href: '/posts',
   },
-  {
-    label: 'Projects',
-    href: '/projects',
-  },
+  //{
+   // label: 'Projects',
+    //href: '/projects',
+  //},
 ] as const

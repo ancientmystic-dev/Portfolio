@@ -10,11 +10,11 @@ type Props = {
 
 const MDImage: React.FC<Props> = ({ src, alt }) => (
   <Box my={3}>
-    <Zoom zoomMargin={96}>
+    <Zoom zoomMargin={40}>
       <Box
         sx={{
           position: 'relative',
-          width: [320, 480, 640],
+          width: [320, 480, 800],
           height: [200, 300, 400],
         }}
       >
